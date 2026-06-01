@@ -1,7 +1,8 @@
 using System.Drawing;
-using WinFormsApp1.DAL;
+using GDIDrawing.Common;
+using GDIDrawing.Model;
 
-namespace WinFormsApp1.BLL
+namespace GDIDrawing.BLL
 {
     public class DrawingService
     {

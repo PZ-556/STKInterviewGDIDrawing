@@ -1,6 +1,7 @@
 using System.Collections.Generic;
+using GDIDrawing.Model;
 
-namespace WinFormsApp1.DAL
+namespace GDIDrawing.Common
 {
     public class DrawingRepository
     {

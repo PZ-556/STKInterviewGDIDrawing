@@ -3,10 +3,11 @@ using System.ComponentModel;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
-using WinFormsApp1.BLL;
-using WinFormsApp1.DAL;
+using GDIDrawing.BLL;
+using GDIDrawing.Common;
+using GDIDrawing.Model;
 
-namespace WinFormsApp1.UI
+namespace GDIDrawing.UI
 {
     public enum DrawMode
     {

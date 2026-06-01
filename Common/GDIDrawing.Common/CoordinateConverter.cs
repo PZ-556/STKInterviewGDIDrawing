@@ -1,4 +1,4 @@
-namespace WinFormsApp1.BLL
+namespace GDIDrawing.Common
 {
     public class CoordinateConverter
     {

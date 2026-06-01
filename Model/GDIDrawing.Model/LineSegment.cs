@@ -1,6 +1,6 @@
 using System.Drawing;
 
-namespace WinFormsApp1.DAL
+namespace GDIDrawing.Model
 {
     public class LineSegment
     {

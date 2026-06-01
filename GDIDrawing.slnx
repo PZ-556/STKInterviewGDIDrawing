@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/UI/">
+    <Project Path="UI/GDIDrawing.UI/GDIDrawing.UI.csproj" />
+  </Folder>
+  <Folder Name="/Common/">
+    <Project Path="Common/GDIDrawing.Common/GDIDrawing.Common.csproj" />
+  </Folder>
+  <Folder Name="/BLL/">
+    <Project Path="BLL/GDIDrawing.BLL/GDIDrawing.BLL.csproj" />
+  </Folder>
+  <Folder Name="/Model/">
+    <Project Path="Model/GDIDrawing.Model/GDIDrawing.Model.csproj" />
+  </Folder>
+</Solution>

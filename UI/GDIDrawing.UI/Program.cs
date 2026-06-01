@@ -1,6 +1,6 @@
-using WinFormsApp1.UI;
+using GDIDrawing.UI;
 
-namespace WinFormsApp1
+namespace GDIDrawing.UI
 {
     internal static class Program
     {

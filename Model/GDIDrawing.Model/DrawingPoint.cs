@@ -1,4 +1,4 @@
-namespace WinFormsApp1.DAL
+namespace GDIDrawing.Model
 {
     public class DrawingPoint
     {
